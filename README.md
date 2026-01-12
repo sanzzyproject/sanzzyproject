@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Backends;Crafting+Pixel-Perfect+UI;Optimizing+Web+Performance;Exploring+Cloud+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=380&lines=Architecting+Scalable+Backends;Crafting+Pixel-Perfect+UI;Optimizing+Web+Performance;Exploring+Cloud+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,26 +23,20 @@
 <h2 align="center">⚡ Engineering Experience</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="center" width="60%">
-        <br/>
-        Saya adalah <b>Software Engineer</b> dengan spesialisasi pada ekosistem JavaScript. Saya menggabungkan logika backend yang kuat dengan estetika frontend yang modern.<br/><br/>
-        🚀 <b>Fokus Utama:</b>
-        <ul>
-            <li>Membangun arsitektur <b>Scalable & High-Performance</b>.</li>
-            <li>Implementasi <b>UI/UX Interaktif</b> dengan animasi halus.</li>
-            <li>Pengembangan <b>RESTful API</b> yang aman dan efisien.</li>
-            <li>Optimasi <b>Cloud Deployment</b> (Serverless & Container).</li>
-        </ul>
-        <br/>
-        <i>"Code is poetry, and interface is the stage."</i>
-      </td>
-      <td valign="center" width="40%">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px;" alt="Coding Animation"/>
-      </td>
-    </tr>
-  </table>
+  <p>
+    Saya adalah <b>Software Engineer</b> dengan spesialisasi pada ekosistem JavaScript.<br/> 
+    Saya menggabungkan logika backend yang kuat dengan estetika frontend yang modern.
+  </p>
+  
+  <p align="center">
+    🚀 <b>Fokus Utama:</b><br/>
+    Membangun arsitektur <b>Scalable & High-Performance</b> • Implementasi <b>UI/UX Interaktif</b><br/>
+    Pengembangan <b>RESTful API</b> efisien • Optimasi <b>Cloud Deployment</b>
+  </p>
+
+  <p><i>"Code is poetry, and interface is the stage."</i></p>
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius:10px;" alt="Coding Animation"/>
 </div>
 
 ---
@@ -52,19 +46,19 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="120"><b>Frontend</b></td>
+      <td align="center" width="100"><b>Frontend</b></td>
       <td>
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs&theme=light" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="120"><b>Backend</b></td>
+      <td align="center" width="100"><b>Backend</b></td>
       <td>
         <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql&theme=light" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="120"><b>Tools & Cloud</b></td>
+      <td align="center" width="100"><b>Tools</b></td>
       <td>
         <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,postman&theme=light" />
       </td>
@@ -77,26 +71,19 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=sanzzyproject&show_icons=true&theme=calm&hide_border=true&title_color=4F46E5&icon_color=4F46E5&bg_color=00000000" width="100%" />
-      </td>
-      <td width="50%">
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanzzyproject&theme=calm&hide_border=true&stroke=4F46E5&ring=4F46E5&fire=4F46E5&currStreakNum=4F46E5&bg_color=00000000" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanzzyproject&show_icons=true&theme=calm&hide_border=true&title_color=4F46E5&icon_color=4F46E5&bg_color=00000000" height="180" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanzzyproject&theme=calm&hide_border=true&stroke=4F46E5&ring=4F46E5&fire=4F46E5&currStreakNum=4F46E5&bg_color=00000000" height="180" alt="streak graph" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzyproject&layout=compact&theme=calm&hide_border=true&title_color=4F46E5&lang_count=6&bg_color=00000000" width="60%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzyproject&layout=compact&theme=calm&hide_border=true&title_color=4F46E5&lang_count=6&bg_color=00000000" height="180" />
 </div>
 
 ---
 
 <h2 align="center">🐍 Contributions History</h2>
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/sanzzyproject/sanzzyproject/output/github-contribution-grid-snake.svg" width="100%" alt="snake"/>
-</p>
+</div>
 
 ---
 
@@ -114,7 +101,7 @@
     <tbody>
       <tr>
         <td align="center"><b>⭐ SanzzyProject</b></td>
-        <td>Web modern dengan arsitektur serverless, fokus pada kecepatan dan responsivitas UI.</td>
+        <td>Web modern arsitektur serverless, fokus pada UI responsif.</td>
         <td align="center">
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
           <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
