@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=250&section=header&text=SanzzyProject&fontSize=80&fontAlign=50&fontAlignY=35&desc=Membangun%20Ekosistem%20Digital%20Masa%20Depan&descAlign=50&descAlignY=60&descSize=20&animation=fadeIn&stroke=000000&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=200&section=header&text=SanzzyProject&fontSize=70&fontAlign=50&fontAlignY=35&desc=Membangun%20Ekosistem%20Digital%20Masa%20Depan&descAlign=50&descAlignY=60&descSize=18&animation=fadeIn&stroke=000000&strokeWidth=2" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=25D366&background=00000000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Spesialis+Backend+(Node.js+%26+Python);Membangun+API+yang+Skalabel;Penggiat+Open+Source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=25D366&background=00000000&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Spesialis+Backend+(Node.js+%26+Python);Membangun+API+yang+Skalabel;Penggiat+Open+Source" alt="Typing SVG" />
   </a>
 
 </div>
@@ -12,56 +12,43 @@
 
 <div align="center">
   
-  <table>
-    <tr>
-      <td valign="center" width="60%">
-        <h2>👋 Halo, Selamat Datang!</h2>
-        <p>
-          Saya adalah pengembang perangkat lunak yang berfokus pada <b>efisiensi backend</b> dan <b>estetika frontend</b>. Saya mengubah ide kompleks menjadi kode yang bersih, mudah dipelihara, dan berkinerja tinggi.
-        </p>
-        <p>
-          🚀 <b>Fokus Saat Ini:</b> Memperdalam arsitektur <i>Microservices</i> dan Integrasi Cloud.<br>
-          🌱 <b>Sedang Mempelajari:</b> Advanced Python Data Science & Docker Orchestration.<br>
-          💬 <b>Diskusi:</b> Siap berdiskusi tentang Teknologi Web, Keamanan Siber, dan AI.
-        </p>
-      </td>
-      <td valign="center" width="40%">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px;" alt="Coding Animation"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius:10px; margin-bottom: 20px;" alt="Coding Animation"/>
+  
+  <h2>👋 Halo, Selamat Datang!</h2>
+  
+  <p width="100%">
+    Saya adalah pengembang perangkat lunak yang berfokus pada <b>efisiensi backend</b> dan <b>estetika frontend</b>.<br/> 
+    Saya mengubah ide kompleks menjadi kode yang bersih, mudah dipelihara, dan berkinerja tinggi.
+  </p>
+  
+  <p>
+    🚀 <b>Fokus Saat Ini:</b> Memperdalam arsitektur <i>Microservices</i> dan Integrasi Cloud.<br>
+    🌱 <b>Sedang Mempelajari:</b> Advanced Python Data Science & Docker Orchestration.<br>
+    💬 <b>Diskusi:</b> Siap berdiskusi tentang Teknologi Web, Keamanan Siber, dan AI.
+  </p>
 
 </div>
 
 <br/>
 
 <div align="center">
-  
   <h3>🛠️ Arsenal Teknologi & Alat</h3>
   <p>Daftar teknologi yang saya gunakan untuk membangun perangkat lunak berkualitas tinggi.</p>
 
-  <table border="0">
-    <tr border="0">
-      <td width="25%" align="center"><b>Backend Core</b></td>
-      <td width="25%" align="center"><b>Frontend & UI</b></td>
-      <td width="25%" align="center"><b>Database & Cloud</b></td>
-      <td width="25%" align="center"><b>DevOps & Tools</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark&perline=2" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark&perline=2" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres&theme=dark&perline=2" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman&theme=dark&perline=3" />
-      </td>
-    </tr>
-  </table>
+  <b>Backend Core</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark&perline=7" />
+  <br/><br/>
+  
+  <b>Frontend & UI</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark&perline=7" />
+  <br/><br/>
+  
+  <b>Database & Cloud</b><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres&theme=dark&perline=7" />
+  <br/><br/>
+  
+  <b>DevOps & Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman&theme=dark&perline=7" />
 
 </div>
 
@@ -72,10 +59,10 @@
   
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanzzyproject&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=sanzzyproject&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
     </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzzyproject&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <br/> <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzzyproject&theme=tokyonight&hide_border=true&bg_color=0D1117" />
     </a>
   </p>
   
@@ -113,3 +100,4 @@
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
+
