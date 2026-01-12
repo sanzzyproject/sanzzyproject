@@ -7,11 +7,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=33FF57&background=00000000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%26+Node.js+Specialist;Building+Modern+Web+APIs;Tailwind+CSS+Stylist" alt="Typing SVG" />
   </a>
-
   <br/><br/>
-
   <h3 style="color: #33FF57;">— CORE TECHNOLOGIES —</h3>
-  
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,express,python,tailwind,git,linux&perline=6&theme=dark" alt="My Skills" />
@@ -27,15 +24,6 @@
   </picture>
 
   <br/><br/>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SanzzyProject&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&count_private=true" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanzzyProject&layout=compact&theme=react&bg_color=0D1117&hide_border=true" height="150" alt="languages graph" />
-  </div>
-
-</div>
-
-
 
 <br>
 
