@@ -54,22 +54,6 @@
 
 <br/>
 
-<div align="center">
-  <h3>📊 Analitik GitHub</h3>
-  
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=sanzzyproject&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
-    </a>
-    <br/> <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzzyproject&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    </a>
-  </p>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzyproject&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="140" alt="languages graph" />
-
-</div>
-
 <br/>
 
 <div align="center">
