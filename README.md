@@ -36,19 +36,19 @@
   <p>Daftar teknologi yang saya gunakan untuk membangun perangkat lunak berkualitas tinggi.</p>
 
   <b>Backend Core</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,express&theme=dark&perline=7" />
   <br/><br/>
   
   <b>Frontend & UI</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark&perline=7" />
   <br/><br/>
   
   <b>Database & Cloud</b><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify&theme=dark&perline=7" />
   <br/><br/>
   
   <b>DevOps & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark&perline=7" />
 
 </div>
 
@@ -84,4 +84,3 @@
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
