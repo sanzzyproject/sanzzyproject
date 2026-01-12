@@ -1,7 +1,5 @@
 <div align="center">
 
-<div align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f9d58&height=180&section=header&text=SanzzyProject&fontSize=80&fontAlign=50&fontAlignY=40&desc=Architecting%20Scalable%20Backends&descAlign=50&descAlignY=65&animation=fadeIn&stroke=000000&strokeWidth=2" width="100%"/>
 
   <br/>
