@@ -1,105 +1,110 @@
-<!-- ===================== HERO ANIMATED ===================== -->
+<h1 align="center">
+  👋 Halo, Saya <span style="color:#4F46E5;">Sanzzy</span>
+</h1>
+
+<h3 align="center">
+  Web Developer • Backend Engineer • UI-Oriented Developer
+</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=SANZZY%20PROJECT&fontSize=44&animation=twinkling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Membangun+Web+Cepat+dan+Scalable;Fokus+UI%2C+UX%2C+dan+Performance;Frontend+%2B+Backend+%2B+Cloud;Open+Source+Enthusiast" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=700&center=true&vCenter=true&width=900&lines=Web+Developer+%7C+Backend+Engineer+%7C+UI-Focused;Membangun+Web+Cepat%2C+Scalable%2C+Modern;Frontend+%2B+Backend+%2B+Cloud+Architecture;Open+Source+%26+Continuous+Learning" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanzzyproject&label=Pengunjung+Profil&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/sanzzyproject?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/sanzzyproject?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Portfolio-Live-4CAF50?style=for-the-badge&logo=vercel" />
-</p>
-
----
-
-## 🧰 Skill & Stack Profesional
-
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=light" />
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=light" />
-</p>
-
-### Tools & Platform
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vercel,docker,postman&theme=light" />
+  <img src="https://komarev.com/ghpvc/?username=sanzzyproject&label=Pengunjung%20Profil&color=4F46E5&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/sanzzyproject?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/sanzzyproject?style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 Stats GitHub Realtime (Animated & Live)
+## 🧠 Tentang Saya
 
-<p align="center">
-  <!-- GitHub Stats dengan tema ultra-modern dan animasi -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanzzyproject&show_icons=true&theme=radical&hide_border=false&count_private=true&line_height=30" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzzyproject&theme=radical&hide_border=false" />
-</p>
+Saya adalah **Web Developer** yang fokus pada:
+- ⚡ **Performa & skalabilitas**
+- 🎨 **UI modern & responsif**
+- ⚙️ **Backend API yang rapi & efisien**
+- ☁️ **Cloud & Serverless Deployment**
 
-<p align="center">
-  <!-- Top Languages -->
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzyproject&layout=compact&theme=radical&hide_border=false" />
-</p>
-
-**Penjelasan Detil:**
-- **Stats GitHub Realtime**: Menunjukkan jumlah commits, stars, forks, watchers, dan repositori aktif kamu.
-- **Streak / Aktifitas harian**: Animasi realtime menunjukkan konsistensi kontribusi harian.
-- **Top Languages**: Grafik bahasa pemrograman yang paling sering digunakan.
-- Semua badge & chart **langsung update otomatis**, tanpa workflow.
+Terbiasa membangun project dari **nol hingga production**, dengan pendekatan **clean code** dan **arsitektur yang mudah dikembangkan**.
 
 ---
 
-## ⚡ Aktivitas Kontribusi Interaktif (Animated, Tanpa Workflow)
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <!-- Contribution Graph Animatif -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=sanzzyproject&theme=react-dark&hide_border=false&area=true" />
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
 </p>
 
-**Penjelasan Lebih Detail:**
-- Grafik kontribusi **langsung dari GitHub API** → realtime dan update otomatis.
-- Efek **gradient & area fill** menambah visualisasi modern dan interaktif.
-- Tanpa workflow, branch, atau token tambahan.
-- Bisa langsung ditempel di README dan **langsung hidup setiap kali halaman profil dibuka**.
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
+
+### ☁️ Platform & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vercel" />
+</p>
+
+---
+
+## 📊 Statistik GitHub (Realtime)
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanzzyproject&show_icons=true&theme=transparent&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzzyproject&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzyproject&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 📈 Aktivitas Kontribusi
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanzzyproject&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Animasi Kontribusi (UI Effect)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanzzyproject/sanzzyproject/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🚀 Project Unggulan
 
-### SanzzyProject
-Frontend modern + Backend scalable + Tailwind + Serverless Deployment (Vercel)  
+### ⭐ SanzzyProject
+Web modern dengan teknologi:
+- HTML, CSS, JavaScript
+- Node.js & Express
+- Python Utility
+- Tailwind CSS
+- Deployment Vercel (Serverless)
 
-<p align="center">
-  <a href="https://github.com/sanzzyproject/sanzzyproject">
-    <img src="https://img.shields.io/badge/Lihat%20Repository-000000?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-**Highlight Project:**
-- UI modern, clean & responsive
-- Backend REST API + Node.js + Python utilities
-- Tailwind CSS & Cloud deployment (Vercel)
-- Struktur project mudah dikembangkan & scalable
+🔗 https://github.com/sanzzyproject/sanzzyproject
 
 ---
 
-## 🤝 Kolaborasi & Open Source
+## 🤝 Terbuka untuk Kolaborasi
 
-- Frontend / UI / UX Modern  
-- Backend / REST API / Cloud  
-- Open Source / Kontribusi Bersama  
+Saya terbuka untuk:
+- 🤝 Kolaborasi Open Source
+- 🚀 Pengembangan Web App
+- ⚙️ Backend & API
+- 🎨 UI Modern & Interaktif
 
-📬 Hubungi via **GitHub Issue / Pull Request**
+📬 Hubungi via GitHub Issue / Pull Request
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+  <b>⭐ Terima kasih sudah mengunjungi profil saya!</b><br/>
+  Jangan lupa follow & star repository jika bermanfaat 🚀
 </p>
