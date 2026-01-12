@@ -1,6 +1,6 @@
 <div align="center">
 
-# Full Stack Developer
+# SanzzyProject Full Stack Developer
 
 <br>
 
@@ -38,7 +38,7 @@ An overview of my coding activity and performance.
     <img src="https://github-readme-stats.vercel.app/api?username=sanzzyproject&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160px">
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanzzyproject&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160px">
   </a>
 </div>
 
