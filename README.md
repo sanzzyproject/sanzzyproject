@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Professional Developer Portfolio
+# Full Stack Developer
 
 <br>
 
@@ -35,7 +35,7 @@ An overview of my coding activity and performance.
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160px">
+    <img src="https://github-readme-stats.vercel.app/api?username=sanzzyproject&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160px">
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160px">
