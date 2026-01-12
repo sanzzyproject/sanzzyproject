@@ -1,93 +1,115 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f9d58&height=180&section=header&text=SanzzyProject&fontSize=80&fontAlign=50&fontAlignY=40&desc=Architecting%20Scalable%20Backends&descAlign=50&descAlignY=65&animation=fadeIn&stroke=000000&strokeWidth=2" width="100%"/>
-
-  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=250&section=header&text=SanzzyProject&fontSize=80&fontAlign=50&fontAlignY=35&desc=Membangun%20Ekosistem%20Digital%20Masa%20Depan&descAlign=50&descAlignY=60&descSize=20&animation=fadeIn&stroke=000000&strokeWidth=2" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=33FF57&background=00000000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%26+Node.js+Specialist;Building+Modern+Web+APIs;Tailwind+CSS+Stylist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=25D366&background=00000000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Spesialis+Backend+(Node.js+%26+Python);Membangun+API+yang+Skalabel;Penggiat+Open+Source" alt="Typing SVG" />
   </a>
-  <br/><br/>
-  <h3 style="color: #33FF57;">— CORE TECHNOLOGIES —</h3>
+
+</div>
+
+---
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td valign="center" width="60%">
+        <h2>👋 Halo, Selamat Datang!</h2>
+        <p>
+          Saya adalah pengembang perangkat lunak yang berfokus pada <b>efisiensi backend</b> dan <b>estetika frontend</b>. Saya mengubah ide kompleks menjadi kode yang bersih, mudah dipelihara, dan berkinerja tinggi.
+        </p>
+        <p>
+          🚀 <b>Fokus Saat Ini:</b> Memperdalam arsitektur <i>Microservices</i> dan Integrasi Cloud.<br>
+          🌱 <b>Sedang Mempelajari:</b> Advanced Python Data Science & Docker Orchestration.<br>
+          💬 <b>Diskusi:</b> Siap berdiskusi tentang Teknologi Web, Keamanan Siber, dan AI.
+        </p>
+      </td>
+      <td valign="center" width="40%">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px;" alt="Coding Animation"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <h3>🛠️ Arsenal Teknologi & Alat</h3>
+  <p>Daftar teknologi yang saya gunakan untuk membangun perangkat lunak berkualitas tinggi.</p>
+
+  <table border="0">
+    <tr border="0">
+      <td width="25%" align="center"><b>Backend Core</b></td>
+      <td width="25%" align="center"><b>Frontend & UI</b></td>
+      <td width="25%" align="center"><b>Database & Cloud</b></td>
+      <td width="25%" align="center"><b>DevOps & Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark&perline=2" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark&perline=2" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres&theme=dark&perline=2" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman&theme=dark&perline=3" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📊 Analitik GitHub</h3>
+  
   <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python,tailwind,git,linux&perline=6&theme=dark" alt="My Skills" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanzzyproject&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
+    </a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzzyproject&theme=tokyonight&hide_border=true&bg_color=0D1117" />
     </a>
   </p>
   
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzyproject&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="140" alt="languages graph" />
 
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🐍 Jejak Kontribusi</h3>
+  <p>Visualisasi aktivitas coding saya selama satu tahun terakhir.</p>
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
-
-  <br/><br/>
-
-<br>
-
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius:10px;" alt="Coding Animation"/>
 </div>
 
-<br><br>
-
----
-
-### 🛠️ **Technology Stack**
-
-A curated list of the tools and technologies I use to build high-quality software.
-
-<br>
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs&theme=dark" alt="Frontend Icons"> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql&theme=dark" alt="Backend Icons"> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,postman&theme=dark" alt="Tools Icons"> |
-
-<br>
-
----
-
-### 📊 **GitHub Analytics**
-
-An overview of my coding activity and performance.
-
-<br>
+<br/>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sanzzyproject&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160px">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=100&section=footer&text=Mari%20Berkolaborasi&fontSize=30&animation=fadeIn&fontAlignY=40" width="100%"/>
+  
+  <br/>
+  
+  <a href="https://linkedin.com/in/USERNAME_KAMU">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanzzyproject&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160px">
+  <a href="https://instagram.com/USERNAME_KAMU">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-</div>
-
-<br>
-
----
-
-### 🐍 **Contributions History**
-
-A visual representation of my commit history.
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contributions Snake Animation" width="800px">
-</div>
-
-<br>
-
----
-
-### Thanks for visiting! Let's connect.
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](YOUR_LINKEDIN_URL)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">](YOUR_TWITTER_URL)
-
-</div>
-
+  <a href="mailto:emailmu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
