@@ -48,7 +48,7 @@
   <br/><br/>
   
   <b>DevOps & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=github&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark&perline=7" />
 
 </div>
 
