@@ -60,16 +60,6 @@ A visual representation of my commit history.
 
 ---
 
-### 🚀 **Featured Projects**
-
-(Isi bagian ini dengan proyek-proyek unggulan Anda yang sebenarnya untuk tampilan yang lebih lengkap dan profesional)
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px" alt="Footer Separator">
-
-<div align="center">
-
 ### Thanks for visiting! Let's connect.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](YOUR_LINKEDIN_URL)
