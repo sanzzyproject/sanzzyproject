@@ -1,21 +1,42 @@
 <div align="center">
 
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SanzzyProject&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=62" width="100%"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f9d58&height=180&section=header&text=SanzzyProject&fontSize=80&fontAlign=50&fontAlignY=40&desc=Architecting%20Scalable%20Backends&descAlign=50&descAlignY=65&animation=fadeIn&stroke=000000&strokeWidth=2" width="100%"/>
+
+  <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Scalable+Apps;Mobile+%26+Web+Enthusiast;Welcome+to+my+Universe" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=33FF57&background=00000000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%26+Node.js+Specialist;Building+Modern+Web+APIs;Tailwind+CSS+Stylist" alt="Typing SVG" />
   </a>
 
+  <br/><br/>
+
+  <h3 style="color: #33FF57;">— CORE TECHNOLOGIES —</h3>
+  
   <p>
-    <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-    <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,tailwind,git,linux&perline=6&theme=dark" alt="My Skills" />
+    </a>
   </p>
+  
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+
+  <br/><br/>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SanzzyProject&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&count_private=true" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanzzyProject&layout=compact&theme=react&bg_color=0D1117&hide_border=true" height="150" alt="languages graph" />
+  </div>
 
 </div>
+
 
 
 <br>
