@@ -6,6 +6,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=25D366&background=00000000&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Spesialis+Backend+(Node.js+%26+Python);Membangun+API+yang+Skalabel;Penggiat+Open+Source" alt="Typing SVG" />
   </a>
 
+  <br/>
+
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
 </div>
 
 ---
@@ -53,7 +59,6 @@
 </div>
 
 <br/>
-
 <br/>
 
 <div align="center">
