@@ -69,6 +69,12 @@
 <br/>
 
 <div align="center">
+  <h3>📊 Bahasa yang Sering Digunakan</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=radical" alt="Most Used Languages" />
+</div>
+<br/>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=100&section=footer&text=Mari%20Berkolaborasi&fontSize=30&animation=fadeIn&fontAlignY=40" width="100%"/>
   
   <br/>
