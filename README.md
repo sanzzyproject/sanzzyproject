@@ -20,13 +20,6 @@
     Saya adalah pengembang perangkat lunak yang berfokus pada <b>efisiensi backend</b> dan <b>estetika frontend</b>.<br/> 
     Saya mengubah ide kompleks menjadi kode yang bersih, mudah dipelihara, dan berkinerja tinggi.
   </p>
-  
-  <p>
-    🚀 <b>Fokus Saat Ini:</b> Memperdalam arsitektur <i>Microservices</i> dan Integrasi Cloud.<br>
-    🌱 <b>Sedang Mempelajari:</b> Advanced Python Data Science & Docker Orchestration.<br>
-    💬 <b>Diskusi:</b> Siap berdiskusi tentang Teknologi Web, Keamanan Siber, dan AI.
-  </p>
-
 </div>
 
 <br/>
