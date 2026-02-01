@@ -53,7 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzyproject&layout=compact&theme=radical" alt="Most Used Languages" />  
 </div>
 <br/>
-<Img srh="https://github-readme-activity-graph.vercel.app/graph?username=sanzzyproject&theme=react-dark&bg_color=0D1117&hide_border=true&color=53b14f&line=53b14f&point=FFFFFF" />
 
 <div align="center">
   <h3>🐍 Jejak Kontribusi</h3>
