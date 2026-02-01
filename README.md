@@ -50,7 +50,7 @@
 
 <div align="center">
   <h3>📊 Bahasa yang Sering Digunakan</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzyproject&layout=compact&theme=radical&hide=html,css,dockerfile&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzyproject&layout=compact&theme=radical" alt="Most Used Languages" />  
 </div>
 <br/>
 
